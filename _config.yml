@@ -22,8 +22,7 @@ description: >- # used by seo meta and the atom feed
   I'm a software developer who values high quality and FOSS software.
 
 # Fill in the protocol & hostname for your site.
-# E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://damymetzke.github.io"
+url: "https://damymetzke.com"
 
 github:
   username: damymetzke # change to your GitHub username
@@ -32,7 +31,7 @@ social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Damy Metzke
-  email: public@damymetzke.com
+  email: hello+blog@damymetzke.com
   links:
     - https://github.com/damymetzke
 
